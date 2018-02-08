@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/WEB-INF/tags
+END
+cancel.tag
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/WEB-INF/tags/cancel.tag
+END
+textarea.tag
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/WEB-INF/tags/textarea.tag
+END
+textbox.tag
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/WEB-INF/tags/textbox.tag
+END
+select.tag
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/WEB-INF/tags/select.tag
+END
+password.tag
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/WEB-INF/tags/password.tag
+END
+submit.tag
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/WEB-INF/tags/submit.tag
+END

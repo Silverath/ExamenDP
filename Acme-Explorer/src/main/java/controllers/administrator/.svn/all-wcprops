@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/12/Acme-Explorer/src/main/java/controllers/administrator
+END
+ManagerAdministratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/8/Acme-Explorer/src/main/java/controllers/administrator/ManagerAdministratorController.java
+END
+TagAdministratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/administrator/TagAdministratorController.java
+END
+SystemConfigurationAdministratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/administrator/SystemConfigurationAdministratorController.java
+END
+CategoryAdministratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/12/Acme-Explorer/src/main/java/controllers/administrator/CategoryAdministratorController.java
+END
+RangerAdministratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/administrator/RangerAdministratorController.java
+END
+AdministratorAdministratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/administrator/AdministratorAdministratorController.java
+END
+ExplorerAdministratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/administrator/ExplorerAdministratorController.java
+END
+SponsorAdministratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/administrator/SponsorAdministratorController.java
+END
+MessageAdministratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/administrator/MessageAdministratorController.java
+END
+AuditorAdministratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/administrator/AuditorAdministratorController.java
+END
+DashboardAdministratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/administrator/DashboardAdministratorController.java
+END
+ActorAdministratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/administrator/ActorAdministratorController.java
+END
+LegalTextAdministratorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/administrator/LegalTextAdministratorController.java
+END

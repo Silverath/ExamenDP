@@ -1,0 +1,2 @@
+select (count(t)*1.0)/(select count(x) from Trip x) from Trip t where (select count(w) from WarningNote w where w.trip.id = t.id)>0;
+select t.manager from Trip t where(select count(w) from WarningNote w where w.trip.id = t.id)>= all(select(select count(w2) from WarningNote w2 where w2.trip.id = t2.id) from Trip t2);

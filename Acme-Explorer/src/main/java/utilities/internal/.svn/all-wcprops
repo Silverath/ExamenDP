@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/utilities/internal
+END
+EclipseStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/utilities/internal/EclipseStream.java
+END
+DatabaseUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/utilities/internal/DatabaseUtil.java
+END
+SchemaPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/utilities/internal/SchemaPrinter.java
+END
+ConsoleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/utilities/internal/ConsoleReader.java
+END
+EclipseConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/utilities/internal/EclipseConsole.java
+END
+ThrowablePrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/utilities/internal/ThrowablePrinter.java
+END

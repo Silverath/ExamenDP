@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/21/Acme-Explorer/src/main/java/repositories
+END
+ExplorerRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/ExplorerRepository.java
+END
+SurvivalClassRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/SurvivalClassRepository.java
+END
+MiscellaneousRecordRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/MiscellaneousRecordRepository.java
+END
+StageRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/StageRepository.java
+END
+SponsorRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/SponsorRepository.java
+END
+ProfessionalRecordRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/ProfessionalRecordRepository.java
+END
+NoteRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/NoteRepository.java
+END
+AuditRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/21/Acme-Explorer/src/main/java/repositories/AuditRepository.java
+END
+TagValueRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/TagValueRepository.java
+END
+ActorRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/ActorRepository.java
+END
+LocationRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/LocationRepository.java
+END
+SystemConfigurationRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/SystemConfigurationRepository.java
+END
+TripRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/TripRepository.java
+END
+RangerRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/RangerRepository.java
+END
+EndorserRecordRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/EndorserRecordRepository.java
+END
+PersonalRecordRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/PersonalRecordRepository.java
+END
+SocialIdentityRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/SocialIdentityRepository.java
+END
+ContactEmergencyRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/ContactEmergencyRepository.java
+END
+ApplicationRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/ApplicationRepository.java
+END
+FinderRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/FinderRepository.java
+END
+AuditorRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/AuditorRepository.java
+END
+ManagerRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/ManagerRepository.java
+END
+EducationRecordRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/EducationRecordRepository.java
+END
+FolderRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/FolderRepository.java
+END
+TagRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/TagRepository.java
+END
+CategoryRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/CategoryRepository.java
+END
+AdministratorRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/AdministratorRepository.java
+END
+StoryRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/StoryRepository.java
+END
+MessageRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/MessageRepository.java
+END
+SponsorshipRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/SponsorshipRepository.java
+END
+LegalTextRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/LegalTextRepository.java
+END
+CurriculumRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/repositories/CurriculumRepository.java
+END

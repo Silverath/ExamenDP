@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/20/Acme-Explorer/src/main/resources/spring/config
+END
+tiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/20/Acme-Explorer/src/main/resources/spring/config/tiles.xml
+END
+i18n-l10n.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/20/Acme-Explorer/src/main/resources/spring/config/i18n-l10n.xml
+END
+security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/8/Acme-Explorer/src/main/resources/spring/config/security.xml
+END
+data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/resources/spring/config/data.xml
+END
+converters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/resources/spring/config/converters.xml
+END
+packages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/resources/spring/config/packages.xml
+END

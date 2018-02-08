@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/23/Acme-Explorer
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/.classpath
+END
+acme-explorer.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/acme-explorer.sql
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/pom.xml
+END

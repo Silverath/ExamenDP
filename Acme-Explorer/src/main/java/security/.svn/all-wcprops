@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/security
+END
+Authority.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/security/Authority.java
+END
+LoginService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/security/LoginService.java
+END
+UserAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/security/UserAccount.java
+END
+UserAccountRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/security/UserAccountRepository.java
+END
+LoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/security/LoginController.java
+END
+UserAccountService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/security/UserAccountService.java
+END
+Credentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/security/Credentials.java
+END

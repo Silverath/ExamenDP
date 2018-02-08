@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/20/Acme-Explorer/src/main/webapp/views/explorer
+END
+tiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/views/explorer/tiles.xml
+END
+edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/views/explorer/edit.jsp
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/20/Acme-Explorer/src/main/webapp/views/explorer/messages.properties
+END
+list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/views/explorer/list.jsp
+END
+tiles_es.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/views/explorer/tiles_es.xml
+END
+messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/20/Acme-Explorer/src/main/webapp/views/explorer/messages_es.properties
+END

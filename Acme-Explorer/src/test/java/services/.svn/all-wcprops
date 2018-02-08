@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services
+END
+TripServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/TripServiceTest.java
+END
+RangerServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/RangerServiceTest.java
+END
+EndorserRecordServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/EndorserRecordServiceTest.java
+END
+PersonalRecordServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/PersonalRecordServiceTest.java
+END
+SocialIdentityServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/SocialIdentityServiceTest.java
+END
+SponsorshipServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/SponsorshipServiceTest.java
+END
+LegalTextServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/LegalTextServiceTest.java
+END
+ContactEmergencyServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/ContactEmergencyServiceTest.java
+END
+SurvivalClassServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/SurvivalClassServiceTest.java
+END
+StageServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/StageServiceTest.java
+END
+SponsorServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/SponsorServiceTest.java
+END
+ProfessionalRecordServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/ProfessionalRecordServiceTest.java
+END
+NoteServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/NoteServiceTest.java
+END
+EducationRecordServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/EducationRecordServiceTest.java
+END
+ManagerServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/ManagerServiceTest.java
+END
+StoryServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/StoryServiceTest.java
+END
+AdministratorServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/AdministratorServiceTest.java
+END
+MessageServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/MessageServiceTest.java
+END
+CurriculumServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/CurriculumServiceTest.java
+END
+ExplorerServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/ExplorerServiceTest.java
+END
+MiscellaneousRecordServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/MiscellaneousRecordServiceTest.java
+END
+ApplicationServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/ApplicationServiceTest.java
+END
+AuditServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/AuditServiceTest.java
+END
+AuditorServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/AuditorServiceTest.java
+END
+FinderServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/FinderServiceTest.java
+END
+TagValueServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/TagValueServiceTest.java
+END
+ActorServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/ActorServiceTest.java
+END
+LocationServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/LocationServiceTest.java
+END
+TagServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/TagServiceTest.java
+END
+FolderServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/FolderServiceTest.java
+END
+SystemConfigurationServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/SystemConfigurationServiceTest.java
+END
+CategoryServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/test/java/services/CategoryServiceTest.java
+END

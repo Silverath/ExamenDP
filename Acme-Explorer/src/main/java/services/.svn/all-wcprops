@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/23/Acme-Explorer/src/main/java/services
+END
+TripService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/TripService.java
+END
+RangerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/20/Acme-Explorer/src/main/java/services/RangerService.java
+END
+EndorserRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/23/Acme-Explorer/src/main/java/services/EndorserRecordService.java
+END
+PersonalRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/PersonalRecordService.java
+END
+SocialIdentityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/SocialIdentityService.java
+END
+SponsorshipService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/15/Acme-Explorer/src/main/java/services/SponsorshipService.java
+END
+LegalTextService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/LegalTextService.java
+END
+ContactEmergencyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/ContactEmergencyService.java
+END
+SurvivalClassService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/SurvivalClassService.java
+END
+StageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/StageService.java
+END
+SponsorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/20/Acme-Explorer/src/main/java/services/SponsorService.java
+END
+ProfessionalRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/ProfessionalRecordService.java
+END
+NoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/NoteService.java
+END
+EducationRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/EducationRecordService.java
+END
+ManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/20/Acme-Explorer/src/main/java/services/ManagerService.java
+END
+AdministratorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/20/Acme-Explorer/src/main/java/services/AdministratorService.java
+END
+StoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/StoryService.java
+END
+MessageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/MessageService.java
+END
+CurriculumService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/CurriculumService.java
+END
+ExplorerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/20/Acme-Explorer/src/main/java/services/ExplorerService.java
+END
+MiscellaneousRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/MiscellaneousRecordService.java
+END
+ApplicationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/ApplicationService.java
+END
+AuditService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/21/Acme-Explorer/src/main/java/services/AuditService.java
+END
+FinderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/FinderService.java
+END
+AuditorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/20/Acme-Explorer/src/main/java/services/AuditorService.java
+END
+LocationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/LocationService.java
+END
+ActorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/ActorService.java
+END
+TagValueService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/TagValueService.java
+END
+FolderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/FolderService.java
+END
+TagService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/9/Acme-Explorer/src/main/java/services/TagService.java
+END
+SystemConfigurationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/services/SystemConfigurationService.java
+END
+CategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/12/Acme-Explorer/src/main/java/services/CategoryService.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/17/Acme-Explorer/src/main/java/controllers/manager
+END
+SurvivalClassManagerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/manager/SurvivalClassManagerController.java
+END
+ApplicationManagerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/manager/ApplicationManagerController.java
+END
+StageManagerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/manager/StageManagerController.java
+END
+NoteManagerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/manager/NoteManagerController.java
+END
+TagValueManagerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/manager/TagValueManagerController.java
+END
+ManagerManagerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/8/Acme-Explorer/src/main/java/controllers/manager/ManagerManagerController.java
+END
+TagManagerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/java/controllers/manager/TagManagerController.java
+END
+TripManagerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/17/Acme-Explorer/src/main/java/controllers/manager/TripManagerController.java
+END

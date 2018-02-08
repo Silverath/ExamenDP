@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/10/Acme-Explorer/src/main/webapp/views/master-page
+END
+tiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/views/master-page/tiles.xml
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/views/master-page/messages.properties
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/8/Acme-Explorer/src/main/webapp/views/master-page/header.jsp
+END
+tiles_es.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/views/master-page/tiles_es.xml
+END
+layout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/10/Acme-Explorer/src/main/webapp/views/master-page/layout.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/views/master-page/footer.jsp
+END
+messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/2p3c49f7avpnvxhwhwe/!svn/ver/2/Acme-Explorer/src/main/webapp/views/master-page/messages_es.properties
+END
